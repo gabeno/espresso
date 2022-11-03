@@ -44,6 +44,7 @@ func start() int {
 
 	s := server.New(server.Options{
 		Host: host,
+		Log:  log,
 		Port: port,
 	})
 
