@@ -13,6 +13,8 @@ require (
 	github.com/jackc/pgtype v1.12.0 // indirect
 	github.com/jackc/pgx/v4 v4.17.2 // indirect
 	github.com/jmoiron/sqlx v1.3.5 // indirect
+	github.com/maragudk/env v0.1.2 // indirect
+	github.com/maragudk/migrate v0.4.3 // indirect
 	github.com/matryer/is v1.4.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
